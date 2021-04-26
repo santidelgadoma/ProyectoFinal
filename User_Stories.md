@@ -16,3 +16,6 @@ VoxxMap es una empresa encargada de ofrecer soluciones para el bien público a t
 
 1. **Ánalisis de Datos con Funciones de PostgreSQL** Como VoxxMap deseo obtener conclusiones a partir de la información obtenida que sea valiosa para llevar a cabo el proyecto.
 2. **Monitoreo de Hospitales con Información Incompleta** Como VoxxMap quiero saber que hospitales deben de ser contactados otra vez para llenar vacíos que permitan un mayor alcance del proyecto.
+3. **Presentación de Tableros Gráficos** Como VoxxMap deseo poder ver presentaciones con tableros gráficos de la información analizada para poder tener un apoyo visual de los problemas que se presentan.
+
+
