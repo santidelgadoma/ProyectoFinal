@@ -11,6 +11,7 @@ VoxxMap es una empresa encargada de ofrecer soluciones para el bien público a t
 **Epic Story: Como VoxxMap quiero tener una base de datos confiable y flexible, para poder guardar y actualizar información.**
 
 1. **Creación de la Base de Datos** Como Voxxmap requiero de una base de datos confiable para poder levantar reportes con el menor ruido posible. Que cumpla con las reglas de normalización utilizando las mejores prácticas.
+2. **Establecer Conexión a la Base de Datos** Como VoxxMap necesito que las respuestas de la encuesta se reflejen en la base de datos a través de una conexión con las respuestas de la encuesta para tener la información siempre actualizada.
 
 **Epic Story: Como VoxxMap requiero de un ánalisis de los datos de los hospitales**
 
