@@ -5,19 +5,19 @@ VoxxMap es una empresa encargada de ofrecer soluciones para el bien público a t
 
 **Epic Story: Como VoxxMap quiero levantar datos de los hospitales para poder analizarlos**
 
-1. _**Formular la Encuesta**_ Como VoxxMap quiero poder tener los datos necesarios de cada hospital sin importar lo remoto que sea el lugar en el que se ubique. Los datos se obtendrán a partir de un Google Forms con preguntas específicas al igual que datos geográficos del hospital.
+1. _**Formular la Encuesta**_ Como VoxxMap debo poder tener los datos necesarios de cada hospital sin importar lo remoto que sea el lugar en el que se ubique. Los datos se obtendrán a partir de un Google Forms con preguntas específicas de los casos covid y de los datos geográficos del hospital.
 2. _**Organización de Datos**_ Como VoxxMap necesito poder integrar los resultados obtenidos en una base de datos para poder organizarla y hacer buen uso de la información recopilada.
 
 **Epic Story: Como VoxxMap quiero tener una base de datos confiable y flexible, para poder guardar y actualizar información.**
 
-1. _**Creación de la Base de Datos**_ Como Voxxmap requiero de una base de datos confiable para poder levantar reportes con el menor ruido posible. Debe cumpla con las reglas de normalización utilizando las mejores prácticas.
-2. _**Establecer Conexión a la Base de Datos**_ Como VoxxMap necesito que las respuestas de la encuesta se reflejen en la base de datos a través de una conexión automatizada para tener la información siempre actualizada.
+1. _**Creación de la Base de Datos**_ Como Voxxmap requiero de una base de datos confiable para poder levantar reportes con el menor ruido posible. Debe cumplir con las reglas de normalización y seguir las mejores prácticas.
+2. _**Establecer Conexión a la Base de Datos**_ Como VoxxMap necesito que las respuestas de la encuesta se reflejen en la base de datos a través de una conexión automatizada con AWS para tener la información siempre al día.
 
 **Epic Story: Como VoxxMap requiero de un ánalisis de los datos de los hospitales**
 
-1. _**Ánalisis de Datos con Funciones de PostgreSQL**_ Como VoxxMap deseo obtener conclusiones a partir de la información obtenida que sea valiosa para llevar a cabo el análisis.
-2. _**Monitoreo de Hospitales con Información Incompleta**_ Como VoxxMap quiero saber qué hospitales deben  ser contactados otra vez para llenar vacíos que permitan un mayor alcance del proyecto.
-3. _**Presentación de Tableros Gráficos**_ Como VoxxMap deseo poder ver presentaciones con tableros gráficos de la información analizada para poder tener un apoyo visual de los problemas que se presentan.
+1. _**Ánalisis de Datos con Funciones de PostgreSQL**_ Como VoxxMap deseo obtener conclusiones a partir de la información levantada que sea valiosa para llevar a cabo el análisis necesario.
+2. _**Monitoreo de Hospitales con Información Incompleta**_ Como VoxxMap quiero saber qué hospitales deben ser contactados otra vez para llenar vacíos de información y asegurar un mayor alcance del proyecto.
+3. _**Presentación de Tableros Gráficos**_ Como VoxxMap busco tener representaciones gráficas de la información capturada para tener un apoyo visual que permita solucionar los problemas que enfrentan los hospitales.
 
 # Problem Domain
 
